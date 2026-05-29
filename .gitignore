@@ -24,12 +24,7 @@ dist-ssr/
 *.sln
 *.sw?
 
-# dati sensibili e chiavi api
-.env
-.env.local
-.env.development.local
-.env.test.local
-.env.production.local
+
 
 # cache di sviluppo
 .vite/
