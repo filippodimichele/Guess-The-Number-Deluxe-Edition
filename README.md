@@ -11,9 +11,8 @@ L'esecuzione e la gestione dell'ambiente di sviluppo richiedono l'installazione 
 Il progetto rispetta i seguenti vincoli di sviluppo:
 
 * JavaScript Puro: Implementazione basata su Vanilla JS.
-
 * Generazione Numeri: Utilizzo nativo dell'oggetto Math per l'elaborazione del numero segreto all'avvio dello script.
-* Interazione con il DOM: Manipolazione dinamica dell'interfaccia utente basata sugli eventi generati dall'utente.
+* Interazione con il DOM: Manipolazione dinamica dell'interfaccia utente.
 
 ## Installazione
 
