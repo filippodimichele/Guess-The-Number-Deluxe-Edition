@@ -4,7 +4,7 @@ Applicazione web interattiva focalizzata sulla predizione numerica. Il sistema g
 
 ## Prerequisiti
 
-L'esecuzione e la gestione dell'ambiente di sviluppo richiedono l'installazione del runtime Node.js nel sistema ospite.
+L'esecuzione e la gestione dell'ambiente di sviluppo richiedono l'installazione del runtime Node.js..
 
 ## Requisiti Tecnici Obbligatori
 
