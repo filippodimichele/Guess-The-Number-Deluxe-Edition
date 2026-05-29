@@ -1,4 +1,4 @@
-# Guess the number: Deluxe edition
+# Guess The Number: Deluxe edition
 
 Applicazione web interattiva focalizzata sulla predizione numerica. Il sistema genera un valore segreto e l'utente deve identificare la soluzione corretta tra i numeri proposti per completare il gioco con successo.
 
