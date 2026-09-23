@@ -1,18 +1,12 @@
 # Guess The Number: Deluxe edition
 
-Applicazione web interattiva focalizzata sulla predizione numerica. Il sistema genera un valore segreto e l'utente deve identificare la soluzione corretta tra i numeri proposti per completare il gioco con successo.
+Applicazione web interattiva focalizzata sulla predizione numerica.
+Il sistema genera un valore segreto e l'utente deve identificare la soluzione corretta tra i numeri proposti per completare il gioco.
 
-## Prerequisiti
 
-L'esecuzione e la gestione dell'ambiente di sviluppo richiedono l'installazione del runtime Node.js..
+## Requisiti del progetto
 
-## Requisiti Tecnici Obbligatori
-
-Il progetto rispetta i seguenti vincoli di sviluppo:
-
-* JavaScript Puro: Implementazione basata su Vanilla JS.
-* Generazione Numeri: Utilizzo nativo dell'oggetto Math per l'elaborazione del numero segreto all'avvio dello script.
-* Interazione con il DOM: Manipolazione dinamica dell'interfaccia utente.
+* Richiede l'avvio del runtime Node.js
 
 ## Installazione
 
@@ -29,13 +23,13 @@ Per configurare l'applicazione in ambiente locale, eseguire la seguente sequenza
 
 ## Esecuzione progetto
 
-Per avviare il server locale con supporto al ricaricamento automatico:
+Per avviare il server locale:
 
 npm run dev
 
 Il link per accedere all'interfaccia di gioco verra visualizzato all'interno del terminale.
 
-## Compilazione e Produzione
-Per generare i file statici ottimizzati e pronti per la distribuzione su server web:
+## Compilazione 
+Per generare i file e pronti per la distribuzione su server web:
 
 npm run build
